@@ -42,6 +42,18 @@ This project extends the idea of traffic light FSMs by coupling them with vehicl
 
 ![App Screenshot](Screenshots/Screenshot.png)
 
+State Diagram:
+
+![App Screenshot](Screenshots/State%20diagram.png)
+
+System Architecture:
+
+![App Screenshot](Screenshots/System%20Archi.png)
+
+Transition Table: 
+
+![App Screenshot](Screenshots/Transition%20Table.png)
+
 ---
 
 ## 📚 Scope & Limitations  
