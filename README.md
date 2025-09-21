@@ -61,7 +61,7 @@ This project extends the idea of traffic light FSMs by coupling them with vehicl
 ---
 
 ## 🔗 References  
-This project’s GUI and Pygame structure are **adapted from**  by [Basic-Traffic-Intersection-Simulation](https://github.com/mihir-m-gandhi/Basic-Traffic-Intersection-Simulation) by Mihir Gandhi.  
+This project’s GUI and Pygame structure are **adapted from** [Basic-Traffic-Intersection-Simulation](https://github.com/mihir-m-gandhi/Basic-Traffic-Intersection-Simulation) by Mihir Gandhi.  
 TrafficSync extends the original idea by introducing **finite state automata**, **vehicle priority handling**, and **traffic flow optimization**.  
 
 ---
